@@ -41,7 +41,7 @@ const jsonLd = {
   "priceRange": "₹₹",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Muthu St, Periamet, Park Town",
+    "streetAddress": "Muthu St, Periamet, Park Town, Chennai, Tamil Nadu 600003, IN",
     "addressLocality": "Chennai",
     "addressRegion": "Tamil Nadu",
     "postalCode": "600003",

@@ -3,7 +3,7 @@ import GalleryClient from './page-client';
 
 export const metadata = {
   title: "Uniform Gallery | Zorex Tailor Chennai — Police, School & More",
-  description: "Browse finished police, school, military, corporate and healthcare uniforms stitched by Zorex Tailor, Periamet, Chennai. See our fabric and finishing quality.",
+  description: "Browse finished police, school, military, corporate and healthcare uniforms stitched by Zorex Tailor, Periamet, Chennai.",
   alternates: {
     canonical: "https://zorexuniforms.netlify.app/gallery",
   },

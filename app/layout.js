@@ -29,17 +29,9 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata = {
-  title: "Zorex Tailor — Chennai's Premium Uniform Tailors",
-  description: "Zorex Tailor (Muthu St, Periamet, Park Town, Chennai) specializes in high-quality Police & Paramilitary Uniforms, School & College Uniforms, Military, Corporate, and Healthcare attire. Phone: +91 63693 30737.",
+  metadataBase: new URL('https://zorexuniforms.netlify.app'),
   keywords: "Zorex Tailor, Chennai Tailors, Police Uniform Chennai, School Uniform Tailor Chennai, NCC Uniforms, Alterations Chennai, Periamet Tailor, Paramilitary Uniforms Chennai",
   authors: [{ name: "Zorex Tailor" }],
-  openGraph: {
-    title: "Zorex Tailor — Chennai's Premium Uniform Tailors",
-    description: "Specializing in Police, Paramilitary, and School Uniforms in Chennai since 1994. Expert craftsmanship and perfect fit.",
-    url: "https://zorextailor.com",
-    type: "website",
-    locale: "en_IN",
-  }
 };
 
 export const viewport = {

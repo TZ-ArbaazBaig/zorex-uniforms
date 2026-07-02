@@ -3,7 +3,7 @@ import ContactClient from './page-client';
 
 export const metadata = {
   title: "Contact Zorex Tailor | Muthu St, Periamet, Chennai 600003",
-  description: "Visit or WhatsApp Zorex Tailor at Muthu St, Periamet, Park Town, Chennai 600003. Open Mon–Sat 10AM–8PM, Sunday 11AM–2PM. Call or WhatsApp +91 63693 30737.",
+  description: "Visit or WhatsApp Zorex Tailor at Muthu St, Periamet, Park Town, Chennai 600003. Open Mon–Sat 10AM–8PM, Sunday 11AM–2PM.",
   alternates: {
     canonical: "https://zorexuniforms.netlify.app/contact",
   },

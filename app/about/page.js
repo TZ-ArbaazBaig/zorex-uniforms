@@ -3,7 +3,7 @@ import AboutClient from './page-client';
 
 export const metadata = {
   title: "About Zorex Tailor | Uniform Workshop in Periamet, Chennai Since 1994",
-  description: "Zorex Tailor has stitched police, school, and institutional uniforms from Periamet, Chennai since 1994. Learn about our workshop, craftsmanship, and 1000+ satisfied institutional clients.",
+  description: "Zorex Tailor has stitched police, school, and institutional uniforms from Periamet, Chennai since 1994.",
   alternates: {
     canonical: "https://zorexuniforms.netlify.app/about",
   },
